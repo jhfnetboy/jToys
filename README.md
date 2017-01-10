@@ -26,6 +26,17 @@
 ## Architech roadmap of jToys
 + 
 
+
+## TODO List
++ anyone can mail me to advice some actions or issues
++ we will check and judging,selecting some valuable ideas into this list
+
+## Doing List
++ to make a docker image to newbie of FE OR BE developer
++ to make a web console to manage the Dev env
++ to provide a vue.js frame to build normal business flow
++ 
+
 ## Contact us
 + Blog: http://jLab.tech
 + mail: 91377@qq.com
